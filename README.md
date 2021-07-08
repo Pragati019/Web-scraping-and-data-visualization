@@ -23,7 +23,7 @@ So, The extracted information is then stored in CSV file.
 
 Output:
 
-![]()
+![](https://github.com/Pragati019/Web-scraping-and-data-visualization/blob/main/Images/xl-image.png)
 
 
 
