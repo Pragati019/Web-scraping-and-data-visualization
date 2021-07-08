@@ -15,12 +15,15 @@ Pandas: Pandas is a library used for data manipulation and analysis. It is used 
 Here, I have scraped Flipkart website to extract the information of books. The URL for this page is :
 
 https://www.flipkart.com/search?q=book&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&p%5B%5D=facets.language%255B%255D%3DEnglish%27
+![](https://github.com/Pragati019/Web-scraping-and-data-visualization/blob/main/Images/image1.png)
 
 
-The extracted information is then stored in CSV file.
+After extracting the data, you might want to store it in a format. This format varies depending on your requirement. For this example, I will store the extracted data in a CSV (Comma Separated Value) format.
+So, The extracted information is then stored in CSV file.
+
 Output:
 
-![](https://github.com/Pragati019/Web-scraping-and-data-visualization/blob/main/xl-image.png)
+![]()
 
 
 
