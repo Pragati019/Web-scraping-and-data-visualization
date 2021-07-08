@@ -21,3 +21,4 @@ The extracted information is then stored in CSV file.
 Output:
 
 ![](xl-image)
+
