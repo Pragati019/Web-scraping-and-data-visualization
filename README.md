@@ -20,5 +20,7 @@ https://www.flipkart.com/search?q=book&otracker=search&otracker1=search&marketpl
 The extracted information is then stored in CSV file.
 Output:
 
-![](xl-image)
+![](https://github.com/Pragati019/Web-scraping-and-data-visualization/blob/main/xl-image.png)
+
+
 
